@@ -213,9 +213,9 @@
 }
 
 .btn-2 {
-	background: #BF55EC;
+	background: #F65857;
 	color: #fff;
-	box-shadow: 0 6px #8E44AD;
+	box-shadow: 0 6px #a33131;
 	-webkit-transition: none;
 	-moz-transition: none;
 	transition: none;
@@ -226,12 +226,12 @@
 }
 
 .btn-2c:hover {
-	box-shadow: 0 4px #8E44AD;
+	box-shadow: 0 4px #a33131;
 	top: 2px;
 }
 
 .btn-2c:active {
-	box-shadow: 0 0 #8E44AD;
+	box-shadow: 0 0 #a33131;
 	top: 6px;
 }
 
@@ -314,33 +314,33 @@
 	}
 
 	#colorCycle { 
-	background-color: #9A12B3;  
+	background-color: #00aced;  
 	color: #FFF;
 	text-align: center; 
 	animation-name: homeCycle; 
-	animation-duration:15s; 
+	animation-duration:9s; 
 	animation-direction:alternate; 
 	animation-iteration-count:infinite; 
 
 	-webkit-animation-name: homeCycle; 
-	-webkit-animation-duration:15s; 
+	-webkit-animation-duration:9s; 
 	-webkit-animation-direction:alternate; 
 	-webkit-animation-iteration-count:infinite; 
 
-	-webkit-mask-image: url(../images/dmask.svg);
+	-webkit-mask-image: url(../images/twitter.svg);
 
 	}	
 
 	@keyframes homeCycle 
 	{
-	0% {background-color:#9A12B3;} 
-	34% {background-color:#22A7F0;} 
-	66% {background-color:#9B59B6;} 
+	0% {background-color:#00aced;} 
+	34% {background-color:#0084b4;} 
+	66% {background-color:#1dcaff;} 
 	} 
 
 	@-webkit-keyframes homeCycle 
 	{ 
-	0% {background-color:#9A12B3;} 
-	34% {background-color:#22A7F0;} 
-	66% {background-color:#9B59B6;} 
+	0% {background-color:#00aced;} 
+	34% {background-color:#0084b4;} 
+	66% {background-color:#1dcaff;} 
 	}
