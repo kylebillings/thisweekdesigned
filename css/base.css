@@ -334,13 +334,13 @@
 	@keyframes homeCycle 
 	{
 	0% {background-color:#00aced;} 
-	34% {background-color:#0084b4;} 
-	66% {background-color:#1dcaff;} 
+	34% {background-color:#1dcaff;} 
+	66% {background-color:#0084b4;} 
 	} 
 
 	@-webkit-keyframes homeCycle 
 	{ 
 	0% {background-color:#00aced;} 
-	34% {background-color:#0084b4;} 
-	66% {background-color:#1dcaff;} 
+	34% {background-color:#1dcaff;} 
+	66% {background-color:#0084b4;} 
 	}
